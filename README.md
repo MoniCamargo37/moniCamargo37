@@ -2,11 +2,9 @@
 
 **Hey there!** 👋
 
-**I'm Monica Camargo, a Full-Stack Developer who's all about building web apps that users love.**
-
-**I graduated from Ironhack school in 2023, and I'm currently sharpening my skills at Imaginning Consultoría.** 
-
-**I'm always up for a challenge and constantly learning new tech stuff.**
+**I'm Monica Camargo, a Full-Stack Developer** *who's all about building web apps that users love.*
+*I graduated from Ironhack school in 2023, and I'm currently sharpening my skills at Imaginning Consultoría.* 
+*I'm always up for a challenge and constantly learning new tech stuff.*
 
 **Here's a glimpse of my technical expertise:**
 
