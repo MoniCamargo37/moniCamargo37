@@ -10,8 +10,8 @@
 
 * **Languages & tools:**
     * ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) 
-    * ![HTML5](ruta_de_la_imagen/HTML5.png) 
-    * ![CSS3](ruta_de_la_imagen/CSS3.png) 
+    * ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) 
+    * ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg) 
     * ![JavaScript](ruta_de_la_imagen/JavaScript.png) 
     * ![TypeScript](ruta_de_la_imagen/TypeScript.png) 
     * ![Python](ruta_de_la_imagen/Python.png) 
