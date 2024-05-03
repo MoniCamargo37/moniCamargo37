@@ -1,44 +1,30 @@
-
-Hi there!
-I'm a Full-Stack Developer passionate about building user-centric web applications.  I recently graduated from Ironhack's bootcamp in 2023 and am currently honing my skills at Imaginning Consulting.
-
-Here's a glimpse of my technical expertise:
 # Soy Monica Camargo, Full-Stack Developer
+**Hey there! I'm Monica Camargo, a Full-Stack Developer who's all about building web apps that users love.**
+**I'm fresh out of Ironhack's 2023 bootcamp, and I'm currently sharpening my skills at Imaginning Consultoría.** 
+**I'm always up for a challenge and constantly learning new tech stuff.**
 
-**¡Hola! Soy Monica Camargo, una apasionada desarrolladora Full-Stack con experiencia en la creación de aplicaciones web centradas en el usuario.**
+**Here's a glimpse of my technical expertise:**
 
-**Recientemente me gradué del bootcamp de Ironhack en 2023 y actualmente estoy perfeccionando mis habilidades en Imaginning Consulting.**
-
-**Mis habilidades técnicas incluyen:**
-
-* **Lenguajes y herramientas:**
+* **Languages & tools:**
     * VSCode
     * HTML5
     * CSS3
     * JavaScript
     * TypeScript
     * Python
-    * Go
     * MongoDB
     * PostgreSQL
     * ReactJS
     * NextJS
-    * Firebase
     * NodeJS
     * NestJS
     * Postman
     * AWS
-    * Jest
+    * Figma
+    * GIT
 
 * **Metodologías ágiles:**
     * Scrum
-    * Six Sigma
-
-**Me apasiona trabajar en proyectos desafiantes y estoy constantemente aprendiendo nuevas tecnologías.**
-
-**Conéctate conmigo:**
-
-* **LinkedIn:** [www.linkedin.com/in/moniCamargo](https://www.linkedin.com/in/moniCamargo)
 
 **Mis mejores proyectos:**
 
