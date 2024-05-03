@@ -9,20 +9,23 @@
 **Here's a glimpse of my technical expertise:**
 
 * **Languages & tools:**
-      ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) 
-      ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) 
-      ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg) 
-      ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) 
-      ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg) 
-      ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) 
-      ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg) 
-      ![ReactJS](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg) 
-      ![NextJS](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg) 
-      ![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg) 
-      ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg) 
-      ![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg) 
-      ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) 
-      ![GIT](https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg) 
+    <div style="display:flex;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="NextJS" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" style="width: 50px; height: 50px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" style="width: 50px; height: 50px;">
+    </div>
+
 
 * **Metodologías ágiles:**
     * Scrum
