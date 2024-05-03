@@ -9,22 +9,22 @@
 **Here's a glimpse of my technical expertise:**
 
 * **Languages & tools:**
-    * VSCode
-    * HTML5
-    * CSS3
-    * JavaScript
-    * TypeScript
-    * Python
-    * MongoDB
-    * PostgreSQL
-    * ReactJS
-    * NextJS
-    * NodeJS
-    * NestJS
-    * Postman
-    * AWS
-    * Figma
-    * GIT
+    * ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) 
+    * ![HTML5](ruta_de_la_imagen/HTML5.png) 
+    * ![CSS3](ruta_de_la_imagen/CSS3.png) 
+    * ![JavaScript](ruta_de_la_imagen/JavaScript.png) 
+    * ![TypeScript](ruta_de_la_imagen/TypeScript.png) 
+    * ![Python](ruta_de_la_imagen/Python.png) 
+    * ![MongoDB](ruta_de_la_imagen/MongoDB.png) 
+    * ![PostgreSQL](ruta_de_la_imagen/PostgreSQL.png) 
+    * ![ReactJS](ruta_de_la_imagen/ReactJS.png) 
+    * ![NextJS](ruta_de_la_imagen/NextJS.png) 
+    * ![NodeJS](ruta_de_la_imagen/NodeJS.png) 
+    * ![NestJS](ruta_de_la_imagen/NestJS.png) 
+    * ![Postman](ruta_de_la_imagen/Postman.png) 
+    * ![AWS](ruta_de_la_imagen/AWS.png) 
+    * ![Figma](ruta_de_la_imagen/Figma.png) 
+    * ![GIT](ruta_de_la_imagen/GIT.png) 
 
 * **Metodologías ágiles:**
     * Scrum
