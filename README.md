@@ -1,4 +1,5 @@
-# Soy Monica Camargo, Full-Stack Developer
+# Monica Camargo, Full-Stack Developer (U+1F468)
+
 **Hey there! I'm Monica Camargo, a Full-Stack Developer who's all about building web apps that users love.**
 **I'm fresh out of Ironhack's 2023 bootcamp, and I'm currently sharpening my skills at Imaginning Consultoría.** 
 **I'm always up for a challenge and constantly learning new tech stuff.**
