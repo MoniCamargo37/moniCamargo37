@@ -53,6 +53,12 @@ A comprehensive learning platform with features for users and administrators. Th
  * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/PROYECT_2_COURSE4U)
  * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
 
+   <video width="320" height="240" controls>
+  <source src="https://private-user-images.githubusercontent.com/116817220/234450405-f42d01f9-fec3-4211-b056-7031fc5a34b7.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUwMjYzNjgsIm5iZiI6MTcxNTAyNjA2OCwicGF0aCI6Ii8xMTY4MTcyMjAvMjM0NDUwNDA1LWY0MmQwMWY5LWZlYzMtNDIxMS1iMDU2LTcwMzFmYzVhMzRiNy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwNlQyMDA3NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZmVlZjE3N2Y4MTFmOWNmMmE2NzIyYTI2MDM4NjRkNzk3MjJiNDYwZWVmOTZhZjQ3Y2U5ZmFiZTlkMDExOTBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Q9E2gca8nAxly3mVk1dgySCDrB-fGf8UK8pi1hPW-TU" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
         
     * **Módulo 3:** Trippo APP: Una aplicación de planificación de actividades que utiliza OpenAI y Bing para crear planes de actividades personalizados para los usuarios.
         * Presentación de diapositivas: [Enlace a la presentación de diapositivas]([SLIDE LINK])
