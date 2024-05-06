@@ -30,9 +30,9 @@
 * **Metodologías ágiles:**
     * Scrum
 
-**Mis mejores proyectos:**
+**PROJECTS:**
 
-* **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** (Shooter Game)
+* **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
 
 * **COURSE4U - Plataforma de aprendizaje en línea:** Una plataforma de aprendizaje completa con funcionalidades para usuarios y administradores.
     * **Módulo 1:** Sitio web responsivo con funciones como navegar, buscar, suscribirse y revisar cursos.
