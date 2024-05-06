@@ -60,8 +60,11 @@ A comprehensive learning platform with features for users and administrators. Th
 
 
         
-    * **Módulo 3:** Trippo APP: Una aplicación de planificación de actividades que utiliza OpenAI y Bing para crear planes de actividades personalizados para los usuarios.
-        * Presentación de diapositivas: [Enlace a la presentación de diapositivas]([SLIDE LINK])
-        * Repositorio de backend: [Enlace al repositorio de backend]([BACKEND REPO LINK])
-        * Implementación de backend: [Enlace a la implementación de backend]([BACKEND DEPLOY LINK])
-        * Aplicación implementada: [Enlace a la aplicación implementada]([APP LINK])
+    * **Módulo 3:** 
+    **[Trippo](https://trippo.netlify.app/)** MODULE 3 (Activity planner for a trip) 
+    
+    Una aplicación de planificación de actividades que utiliza OpenAI y Bing para crear planes de actividades personalizados para los usuarios.
+        * Presentación de diapositivas: [Enlace a la presentación de diapositivas](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
+        * Repositorio de frontend: [Enlace al repositorio de frontend](https://github.com/MoniCamargo37/TRIPPO_frontend?tab=readme-ov-file)
+        * Repositorio de  backend: [Enlace a la implementación de backend](https://github.com/MoniCamargo37/TRIPPO_backend)
+        * Aplicación implementada: [Enlace a la aplicación implementada](https://trippo.netlify.app/)
