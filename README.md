@@ -40,14 +40,19 @@ Are you ready to save the kingdom?
 * See it in action: [Link to the deployed version](https://monicamargo37.github.io/SODIA_Shooter-Game/)
 * Slideshow presentation: [Link to slideshow presentation](https://docs.google.com/presentation/d/17o8pfU952duM68wNuS3tq6jQ3p9ZCGPL/edit#slide=id.p1)
 * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/SODIA_Shooter-Game?tab=readme-ov-file)
+  
 
-**[COURSE4U]( )- Plataforma de aprendizaje en línea:** Una plataforma de aprendizaje completa con funcionalidades para usuarios y administradores.
-    * **Módulo 1:** Sitio web responsivo con funciones como navegar, buscar, suscribirse y revisar cursos.
-        * Verlo en acción: [Enlace a la versión implementada]([https://course4uu.fly.dev/courses])
-        * Presentación de diapositivas: [Enlace a la presentación de diapositivas]([https://onedrive.live.com/edit?id=CBC38F1FF54CB749!867&resid=CBC38F1FF54CB749!867&ithint=file%2cpptx&authkey=!AJZx3r-j4ND4kqs&wdo=2&cid=cbc38f1ff54cb749])
-        * Repositorio compartido de Github: [Enlace al repositorio de Github compartido]([https://github.com/Module-2-Project-COURSE4U/COURSE4U])
-        * Repositorio de Github: [Enlace al repositorio de Github]([https://github.com/MoniCamargo37/PROYECT_2_COURSE4U])
-        * Trello kanban: [Enlace a Trello kanban]([https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board])
+**[COURSE4U](https://course4uu.fly.dev/courses)** 📚 MODULE 2 (Online Learning platform)
+
+
+A comprehensive learning platform with features for users and administrators. This web app is responsive with functions such as browsing, searching, subscribing, and reviewing courses.
+
+ * See it in action: [Link to the deployed version](https://course4uu.fly.dev/courses)
+ * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!867&resid=CBC38F1FF54CB749!867&ithint=file%2cpptx&authkey=!AJZx3r-j4ND4kqs&wdo=2&cid=cbc38f1ff54cb749)
+ * Shared Github repository: [Link to shared Github repository](https://github.com/Module-2-Project-COURSE4U/COURSE4U)
+ * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/PROYECT_2_COURSE4U)
+ * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
+
         
     * **Módulo 3:** Trippo APP: Una aplicación de planificación de actividades que utiliza OpenAI y Bing para crear planes de actividades personalizados para los usuarios.
         * Presentación de diapositivas: [Enlace a la presentación de diapositivas]([SLIDE LINK])
