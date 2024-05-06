@@ -32,7 +32,7 @@
 
 **Mis mejores proyectos:**
 
-* **SODIA GAME** (Shooter Game): Un juego divertido que puedes revisar en Github: [https://github.com/MoniCamargo37/SODIA_Shooter-Game](https://github.com/MoniCamargo37/SODIA_Shooter-Game)
+* **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** (Shooter Game)
 
 * **COURSE4U - Plataforma de aprendizaje en línea:** Una plataforma de aprendizaje completa con funcionalidades para usuarios y administradores.
     * **Módulo 1:** Sitio web responsivo con funciones como navegar, buscar, suscribirse y revisar cursos.
