@@ -32,7 +32,7 @@
 
 **PROJECTS:**
 
-* ***[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
+**[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
 
 In a time of blood and fire, the kingdom of Sodia is about to be overrun by the worst kind of enemies.
 Are you ready to save the kingdom?
@@ -41,7 +41,7 @@ Are you ready to save the kingdom?
 - Slideshow presentation: [Link to slideshow presentation](https://docs.google.com/presentation/d/17o8pfU952duM68wNuS3tq6jQ3p9ZCGPL/edit#slide=id.p1)
 - Github repository: [Link to Github repository](https://github.com/MoniCamargo37/SODIA_Shooter-Game?tab=readme-ov-file)
 
-* **COURSE4U - Plataforma de aprendizaje en línea:** Una plataforma de aprendizaje completa con funcionalidades para usuarios y administradores.
+**COURSE4U - Plataforma de aprendizaje en línea:** Una plataforma de aprendizaje completa con funcionalidades para usuarios y administradores.
     * **Módulo 1:** Sitio web responsivo con funciones como navegar, buscar, suscribirse y revisar cursos.
         * Verlo en acción: [Enlace a la versión implementada]([DEPLOY LINK])
         * Presentación de diapositivas: [Enlace a la presentación de diapositivas]([SLIDE LINK])
