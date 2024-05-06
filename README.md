@@ -56,15 +56,11 @@ A comprehensive learning platform with features for users and administrators. Th
 [![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 
+  **[Trippo](https://trippo.netlify.app/)** Module 3: (Activity planner for a trip) 
 
+  An activity planning application that utilizes OpenAI and Bing to create personalized activity plans for users.
+    * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
+    * Frontend repository: [Link to frontend repository](https://github.com/MoniCamargo37/TRIPPO_frontend?tab=readme-ov-file)
+    * Backend repository: [Link to backend repository](https://github.com/MoniCamargo37/TRIPPO_backend)
+    * Deployed application: [Link to deployed application](https://trippo.netlify.app/)
 
-
-        
-    * **Módulo 3:** 
-    **[Trippo](https://trippo.netlify.app/)** MODULE 3 (Activity planner for a trip) 
-    
-    Una aplicación de planificación de actividades que utiliza OpenAI y Bing para crear planes de actividades personalizados para los usuarios.
-        * Presentación de diapositivas: [Enlace a la presentación de diapositivas](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
-        * Repositorio de frontend: [Enlace al repositorio de frontend](https://github.com/MoniCamargo37/TRIPPO_frontend?tab=readme-ov-file)
-        * Repositorio de  backend: [Enlace a la implementación de backend](https://github.com/MoniCamargo37/TRIPPO_backend)
-        * Aplicación implementada: [Enlace a la aplicación implementada](https://trippo.netlify.app/)
