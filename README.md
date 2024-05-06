@@ -32,7 +32,7 @@
 
 **PROJECTS:**
 
-* **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
+* ***[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
 
 In a time of blood and fire, the kingdom of Sodia is about to be overrun by the worst kind of enemies.
 Are you ready to save the kingdom?
