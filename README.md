@@ -32,7 +32,7 @@
 
 **PROJECTS:**
 
-  **[Trippo](https://trippo.netlify.app/)** ✈️ Module 3 (Activity planner for a trip) 
+  **[TRIPPO](https://trippo.netlify.app/)** ✈️ Module 3 (Activity planner for a trip) 
 
   An activity planning application that utilizes OpenAI and Bing to create personalized activity plans for users.
 
