@@ -32,15 +32,14 @@
 
 **PROJECTS:**
 
-**[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
+  **[Trippo](https://trippo.netlify.app/)** ✈️ Module 3 (Activity planner for a trip) 
 
-In a time of blood and fire, the kingdom of Sodia is about to be overrun by the worst kind of enemies.
-Are you ready to save the kingdom?
+  An activity planning application that utilizes OpenAI and Bing to create personalized activity plans for users.
 
-* See it in action: [Link to the deployed version](https://monicamargo37.github.io/SODIA_Shooter-Game/)
-* Slideshow presentation: [Link to slideshow presentation](https://docs.google.com/presentation/d/17o8pfU952duM68wNuS3tq6jQ3p9ZCGPL/edit#slide=id.p1)
-* Github repository: [Link to Github repository](https://github.com/MoniCamargo37/SODIA_Shooter-Game?tab=readme-ov-file)
-  
+* Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
+* Frontend repository: [Link to frontend repository](https://github.com/MoniCamargo37/TRIPPO_frontend)
+* Backend repository: [Link to backend repository](https://github.com/MoniCamargo37/TRIPPO_backend)
+* Deployed application: [Link to deployed application](https://trippo.netlify.app/)
 
 **[COURSE4U](https://course4uu.fly.dev/courses)** 📚 MODULE 2 (Online Learning platform)
 
@@ -56,13 +55,17 @@ A comprehensive learning platform with features for users and administrators. Th
 [![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 
-  **[Trippo](https://trippo.netlify.app/)** Module 3 (Activity planner for a trip) 
+**[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
 
-  An activity planning application that utilizes OpenAI and Bing to create personalized activity plans for users.
+In a time of blood and fire, the kingdom of Sodia is about to be overrun by the worst kind of enemies.
+Are you ready to save the kingdom?
 
-* Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
-* Frontend repository: [Link to frontend repository](https://github.com/MoniCamargo37/TRIPPO_frontend)
-* Backend repository: [Link to backend repository](https://github.com/MoniCamargo37/TRIPPO_backend)
-* Deployed application: [Link to deployed application](https://trippo.netlify.app/)
+* See it in action: [Link to the deployed version](https://monicamargo37.github.io/SODIA_Shooter-Game/)
+* Slideshow presentation: [Link to slideshow presentation](https://docs.google.com/presentation/d/17o8pfU952duM68wNuS3tq6jQ3p9ZCGPL/edit#slide=id.p1)
+* Github repository: [Link to Github repository](https://github.com/MoniCamargo37/SODIA_Shooter-Game?tab=readme-ov-file)
+  
+
+
+
 
 
