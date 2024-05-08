@@ -45,7 +45,7 @@
 
 A comprehensive learning platform with features for users and administrators. This web app is responsive with functions such as browsing, searching, subscribing, and reviewing courses.
 
-<img src="./monica-camargo/Assets/course4uscreenshot.png">
+<img src="./src/course4uscreenshot.png">
 
  * See it in action: [Link to the deployed version](https://course4uu.fly.dev/courses)
  * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!867&resid=CBC38F1FF54CB749!867&ithint=file%2cpptx&authkey=!AJZx3r-j4ND4kqs&wdo=2&cid=cbc38f1ff54cb749)
@@ -54,7 +54,7 @@ A comprehensive learning platform with features for users and administrators. Th
  * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
 
 <video width="320" height="240" controls>
-  <source src="./monica-camargo/Assets/course4uVideo.mp4" type="video/mp4">
+  <source src="./src/course4u-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
