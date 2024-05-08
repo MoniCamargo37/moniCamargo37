@@ -30,7 +30,7 @@
 * **Metodologías ágiles:**
     * Scrum
 
-# **PROJECTS:**
+# PROJECTS 💻👩‍💻🚀👨‍💻🤖💡
 
  ## [TRIPPO](https://trippo.netlify.app/) ✈️ Module 3 (Activity planner for a trip) 
 
