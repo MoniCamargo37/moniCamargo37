@@ -30,6 +30,7 @@
 * **Metodologías ágiles:**
     * Scrum
 
+
 ## PROJECTS 💻👩‍💻🚀👨‍💻🤖💡
 
  ## [TRIPPO](https://trippo.netlify.app/) ✈️ Module 3 (Activity planner for a trip) 
@@ -42,6 +43,8 @@
 * Frontend repository: [Link to frontend repository](https://github.com/MoniCamargo37/TRIPPO_frontend)
 * Backend repository: [Link to backend repository](https://github.com/MoniCamargo37/TRIPPO_backend)
 * Deployed application: [Link to deployed application](https://trippo.netlify.app/)
+
+
 
 
 ## [COURSE4U](https://course4uu.fly.dev/courses) 📚 MODULE 2 (Online Learning platform)
@@ -59,6 +62,7 @@ A comprehensive learning platform with features for users and administrators. Th
 <video src="course4u-video.mp4" type="video/mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 Your browser does not support the video tag.
 </video>
+
 
 
 
