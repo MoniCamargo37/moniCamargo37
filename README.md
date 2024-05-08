@@ -43,8 +43,9 @@
 
 **[COURSE4U](https://course4uu.fly.dev/courses)** 📚 MODULE 2 (Online Learning platform)
 
-
 A comprehensive learning platform with features for users and administrators. This web app is responsive with functions such as browsing, searching, subscribing, and reviewing courses.
+
+<img src="./monica-camargo/Assets/course4uscreenshot.png">
 
  * See it in action: [Link to the deployed version](https://course4uu.fly.dev/courses)
  * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!867&resid=CBC38F1FF54CB749!867&ithint=file%2cpptx&authkey=!AJZx3r-j4ND4kqs&wdo=2&cid=cbc38f1ff54cb749)
@@ -52,7 +53,10 @@ A comprehensive learning platform with features for users and administrators. Th
  * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/PROYECT_2_COURSE4U)
  * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
 
-[![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+<video width="320" height="240" controls>
+  <source src="./monica-camargo/Assets/course4uVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
