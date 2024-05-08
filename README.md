@@ -32,9 +32,11 @@
 
 **PROJECTS:**
 
- # **[TRIPPO](https://trippo.netlify.app/)** ✈️ Module 3 (Activity planner for a trip) 
+ # [TRIPPO](https://trippo.netlify.app/)** ✈️ Module 3 (Activity planner for a trip) 
 
   An activity planning application that utilizes OpenAI and Bing to create personalized activity plans for users.
+
+  <img src="./src/trippo-pic.png">
 
 * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!884&resid=CBC38F1FF54CB749!884&ithint=file%2cpptx&authkey=!AERv76-BhDQRi48&wdo=2&cid=cbc38f1ff54cb749)
 * Frontend repository: [Link to frontend repository](https://github.com/MoniCamargo37/TRIPPO_frontend)
@@ -42,7 +44,7 @@
 * Deployed application: [Link to deployed application](https://trippo.netlify.app/)
 
 
-# **[COURSE4U](https://course4uu.fly.dev/courses)** 📚 MODULE 2 (Online Learning platform)
+# [COURSE4U](https://course4uu.fly.dev/courses)** 📚 MODULE 2 (Online Learning platform)
 
 A comprehensive learning platform with features for users and administrators. This web app is responsive with functions such as browsing, searching, subscribing, and reviewing courses.
 
@@ -60,10 +62,12 @@ Your browser does not support the video tag.
 
 
 
-# **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
+# [SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
 
 In a time of blood and fire, the kingdom of Sodia is about to be overrun by the worst kind of enemies.
 Are you ready to save the kingdom?
+
+<img src="./src/screenshotGame.jpg">
 
 * See it in action: [Link to the deployed version](https://monicamargo37.github.io/SODIA_Shooter-Game/)
 * Slideshow presentation: [Link to slideshow presentation](https://docs.google.com/presentation/d/17o8pfU952duM68wNuS3tq6jQ3p9ZCGPL/edit#slide=id.p1)
