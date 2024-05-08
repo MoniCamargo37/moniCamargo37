@@ -51,17 +51,15 @@
 
 A comprehensive learning platform with features for users and administrators. This web app is responsive with functions such as browsing, searching, subscribing, and reviewing courses.
 
-<img src="./src/course4uscreenshot.png">
+https://user-images.githubusercontent.com/116817220/234450405-f42d01f9-fec3-4211-b056-7031fc5a34b7.mp4
+
+!<img src="./src/course4uscreenshot.png">
 
  * See it in action: [Link to the deployed version](https://course4uu.fly.dev/courses)
  * Slideshow presentation: [Link to slideshow presentation](https://onedrive.live.com/edit?id=CBC38F1FF54CB749!867&resid=CBC38F1FF54CB749!867&ithint=file%2cpptx&authkey=!AJZx3r-j4ND4kqs&wdo=2&cid=cbc38f1ff54cb749)
  * Shared Github repository: [Link to shared Github repository](https://github.com/Module-2-Project-COURSE4U/COURSE4U)
  * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/PROYECT_2_COURSE4U)
  * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
-
-<video src="course4u-video.mp4" type="video/mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
-Your browser does not support the video tag.
-</video>
 
 
 
