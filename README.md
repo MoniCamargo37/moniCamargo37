@@ -27,7 +27,7 @@
     </div>
 
 
-* **Metodologías ágiles:**
+* **Agile methodologies:**
     * Scrum
 
 
