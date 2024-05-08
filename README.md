@@ -54,9 +54,10 @@ A comprehensive learning platform with features for users and administrators. Th
  * Github repository: [Link to Github repository](https://github.com/MoniCamargo37/PROYECT_2_COURSE4U)
  * Trello kanban: [Link to Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
 
-<video src="./src/course4u-video.mp4" type="video/mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
-  Your browser does not support the video tag.
+<video src="course4u-video.mp4" type="video/mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+Your browser does not support the video tag.
 </video>
+
 
 
 # **[SODIA GAME](https://github.com/MoniCamargo37/SODIA_Shooter-Game)** 🔫 MODULE 1 (Shooter Game)
